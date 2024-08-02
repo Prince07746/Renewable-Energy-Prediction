@@ -75,3 +75,7 @@ Six JSON files from Yelp:
 | weekday_checkins            | 45.39      | 0.00       | 73830.00    |
 | weekend_checkins            | 49.61      | 0.00       | 64647.00    |
 
+
+to find execute
+danielles_delicious_delicacies = np.array([0,1,1,1,1,1,10,2,3,10,10,1200,0.9,3,6,5,50,3,50,1800,12,123,0.5,0,0]).reshape(1,-1)
+model.predict(danielles_delicious_delicacies)
