@@ -1,0 +1,12 @@
+Renewable energy is defined as the contribution of renewables to total primary energy supply (TPES). Renewables include the primary energy equivalent of hydro (excluding pumped storage), geothermal, solar, wind, tide and wave sources. Energy derived from solid biofuels, biogasoline, biodiesels, other liquid biofuels, biogases and the renewable fraction of municipal waste are also included. Biofuels are defined as fuels derived directly or indirectly from biomass (material obtained from living or recently living organisms). This includes wood, vegetal waste (including wood waste and crops used for energy production), ethanol, animal materials/wastes and sulphite lyes. Municipal waste comprises wastes produced by the residential, commercial and public service sectors that are collected by local authorities for disposal in a central location for the production of heat and/or power. This indicator is measured in thousand toe (tonne of oil equivalent) as well as in percentage of total primary energy supply.
+
+
+1. Understanding "KTOE"
+
+KTOE: This stands for "kilotonnes of oil equivalent." It's a unit of energy that helps compare different forms of energy based on their energy content.
+1 TOE: 1 tonne of oil equivalent is the amount of energy released by burning one tonne of crude oil, which is approximately 42 gigajoules.
+KTOE: Kilotonnes of oil equivalent (1 KTOE = 1,000 tonnes of oil equivalent).
+
+2. Primary Energy Supply
+Primary Energy: This is the total energy that is available from natural resources before any transformation to other forms of energy like electricity or refined fuels. Examples include crude oil, coal, natural gas, and renewable sources like solar or wind energy.
+Primary Energy Supply: This refers to the total amount of primary energy that a country or region has available for use. It includes energy production plus imports, minus exports, and changes in stock.
