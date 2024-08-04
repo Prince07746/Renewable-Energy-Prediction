@@ -84,6 +84,7 @@ The script will output the following:
 - **Train score**: R² score of the model on the training set.
 - **Test score**: R² score of the model on the test set.
 - **Plots**: Scatter plot of the actual vs. predicted values over time, and PCA plot of the training data.
+![Uploading data.jpg…]()
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
