@@ -6,6 +6,8 @@ Here's a detailed README for your GitHub repository with proper formatting for h
 
 This project aims to predict renewable energy values over time using a linear regression model. The dataset contains information on renewable energy contributions in various countries.
 
+![dataset-cover](https://github.com/user-attachments/assets/da2ec3bb-4e0c-487f-968d-b64885262f20)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
@@ -91,41 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Markdown Syntax Cheatsheet
-- **Headings**:
-  ```markdown
-  # H1
-  ## H2
-  ### H3
-  ```
-- **Bold**: `**bold text**`
-- **Italic**: `*italicized text*`
-- **Blockquote**: `> blockquote`
-- **Ordered List**:
-  ```markdown
-  1. First item
-  2. Second item
-  3. Third item
-  ```
-- **Unordered List**:
-  ```markdown
-  - First item
-  - Second item
-  - Third item
-  ```
-- **Code**: Inline `code` or block
-  ```markdown
-  ```
-  Code block
-  ```
-  ```
-- **Link**: `[title](https://www.example.com)`
-- **Image**: `![alt text](image.jpg)`
-
-### Color and Custom Styling
-GitHub Markdown doesn't support text color changes natively. However, you can use HTML for advanced styling:
-```html
-<span style="color:blue">Blue text</span>
-```
-
-You can now push this README to your GitHub repository along with the rest of your code.
