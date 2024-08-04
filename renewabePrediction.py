@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 
 
 
-data = pd.read_csv('projects/renewable_energy.csv')
+data = pd.read_csv('renewable_energy.csv')
 data.drop(columns=['Flag Codes'],inplace=True)
 data.fillna({'Value':data['Value'].mean()},inplace=True)
 
