@@ -1,7 +1,3 @@
-Here's a detailed README for your GitHub repository with proper formatting for headings, code snippets, and other elements. You can customize it further as per your needs.
-
----
-
 # Renewable Energy Prediction
 
 This project aims to predict renewable energy values over time using a linear regression model. The dataset contains information on renewable energy contributions in various countries.
@@ -57,7 +53,7 @@ The model uses a linear regression algorithm to predict the renewable energy val
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/renewable-energy-prediction.git
+   git clone https://github.com/Prince07746/renewable-energy-prediction.git
    cd renewable-energy-prediction
    ```
 2. Create and activate a virtual environment:
@@ -71,12 +67,14 @@ The model uses a linear regression algorithm to predict the renewable energy val
    ```
 
 ## Usage
-1. Ensure the dataset `renewable_energy.csv` is in the `projects` directory.
-2. Run the script:
+1. clone the repository
+2. Navigate into the repository `cd Renewable_Energy_Predictions`
+3. Ensure the dataset `renewable_energy.csv` is in the project directory.
+4. Run the script:
    ```sh
-   python projects/renewabePrediction.py
+   python renewabePrediction.py
    ```
-3. The script will load the data, preprocess it, train a linear regression model, and make predictions.
+5. The script will load the data, preprocess it, train a linear regression model, and make predictions.
 
 ## Results
 The script will output the following:
